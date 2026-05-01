@@ -1,4 +1,4 @@
-# Grok 科研检索 Skill 发布版
+# Grok 科研检索 Skill 
 
 这个仓库是一个可复用的 `grok-research-search` skill ，面向需要通过第三方中转站 Grok API 做科研文献检索的使用者。你可以 clone 后配置自己的 `GROK_API_KEY`、`GROK_BASE_URL`、`GROK_MODEL`，然后用它生成结构化检索报告和候选文献 CSV。
 
